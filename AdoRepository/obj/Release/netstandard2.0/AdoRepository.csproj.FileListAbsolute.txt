@@ -1,0 +1,8 @@
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\bin\Release\netstandard2.0\AdoRepository.deps.json
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\bin\Release\netstandard2.0\AdoRepository.dll
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\bin\Release\netstandard2.0\AdoRepository.pdb
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\obj\Release\netstandard2.0\AdoRepository.AssemblyInfoInputs.cache
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\obj\Release\netstandard2.0\AdoRepository.AssemblyInfo.cs
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\obj\Release\netstandard2.0\AdoRepository.csproj.CoreCompileInputs.cache
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\obj\Release\netstandard2.0\AdoRepository.dll
+C:\Users\DakshalRaijada\source\repos\AdoRepository\AdoRepository\obj\Release\netstandard2.0\AdoRepository.pdb
