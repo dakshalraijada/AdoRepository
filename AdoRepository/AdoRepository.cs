@@ -40,6 +40,10 @@ namespace AdoRepository
                 {
                     collection.AddNullableSmallInt(prop.Name, (short?)propValue);
                 }
+                else if (prop.PropertyType == typeof(DataTable))
+                {
+                    collection.AddTable(prop.Name, (DataTable)propValue);
+                }
                 else if (prop.PropertyType == typeof(DateTime?))
                 {
                     collection.AddNullableDateTime(prop.Name, (DateTime?)propValue);

@@ -9,6 +9,8 @@
     <Description>General helper methods to get and push data from SQL server</Description>
     <PackageProjectUrl>https://github.com/dakshalraijada/AdoRepository</PackageProjectUrl>
     <RepositoryUrl>https://github.com/dakshalraijada/AdoRepository</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
